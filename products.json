@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Facial Moisturising Lotion",
+    "price": 25,
+    "brand": "CeraVe",
+    "rating": 5
+  },
+  {
+    "name": "Smoothing Cleanser with Salicylic Acid",
+    "price": 109,
+    "brand": "CeraVe",
+    "rating": 5
+  },
+  {
+    "name": "Thermal Spring Water Spray",
+    "price": 309,
+    "brand": "Avène",
+    "rating": 4.9
+  },
+  {
+    "name": "Hydrance Aqua-Gel",
+    "price": 125,
+    "brand": "Avène",
+    "rating": 4.8
+  },
+  {
+    "name": "Body cream",
+    "price": 40,
+    "brand": "Rituals",
+    "rating": 4.6
+  },
+  {
+    "name": "Foaming Shower Gel",
+    "price": 42,
+    "brand": "Rituals",
+    "rating": 4.55
+  },
+  {
+    "name": "Biossance Squalane and Omega Repair Cream",
+    "price": 23,
+    "brand": "Biossance"
+  },
+  {
+    "name": "Biossance Squalane and Amino Aloe Gentle Cleanser ",
+    "price": 59,
+    "featured": true,
+    "brand": "Biossance"
+  },
+  {
+    "name": "Squalane + Amino Aloe Gentle Pore-Minimizing Cleanser",
+    "price": 39,
+    "featured": true,
+    "brand": "Biossance"
+  },
+
+  {
+    "name": "Squalane+ Rose Vegan Lip Balm",
+    "price": 99,
+    "brand": "Biossance"
+  },
+  {
+    "name": "Olay Regenerist Retinol 24 Moisturiser Cream",
+    "price": 31,
+    "featured": true,
+    "brand": "Olay"
+  },
+  {
+    "name": "Olay Regenerist Retinol 24 Moisturiser Cream",
+    "price": 30,
+    "brand": "Olay"
+  },
+  {
+    "name": "Olay Super Serum",
+    "price": 30,
+    "brand": "Olay"
+  },
+  {
+    "name": "Olay Pro-X Brightening Renewal Facial Cleanser",
+    "price": 109,
+    "brand": "Olay"
+  },
+  {
+    "name": "Total Effects 7-in-1 Day Cream Normal Skin",
+    "price": 129,
+    "brand": "Olay"
+  },
+  {
+    "name": "SOOTHING ANTI-DANDRUFF SHAMPOO",
+    "price": 15,
+    "brand": "Rituals"
+  },
+  {
+    "name": "The Ritual of Namaste Glow Anti-Ageing Day Cream",
+    "price": 79,
+    "featured": true,
+    "brand": "Rituals"
+  },
+  {
+    "name": "The Ritual of Sakura Scented Candle",
+    "price": 120,
+    "featured": true,
+    "brand": "Rituals"
+  },
+  {
+    "name": "CeraVe Anti Aging Retinol Serum",
+    "price": 25,
+    "brand": "CeraVe"
+  },
+  {
+    "name": "Cerave Hydrating Cleanser",
+    "price": 15,
+    "brand": "CeraVe"
+  },
+  {
+    "name": "CeraVe SA Lotion for Rough & Bumpy Skin",
+    "price": 40,
+    "brand": "CeraVe"
+  },
+  {
+    "name": "Avène Cicalfate+ Restorative Protective Cream",
+    "price": 23,
+    "featured": true,
+    "brand": "Avène"
+  },
+  {
+    "name": "Avène Cleanance Cleansing Gel For Oily",
+    "price": 23,
+    "featured": true,
+    "brand": "Avène"
+  }
+]
